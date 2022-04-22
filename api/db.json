@@ -1,0 +1,22 @@
+{
+  "streams": [
+    {
+      "title": "First Stream",
+      "description": "My first stream",
+      "userId": "101793342777040016944",
+      "id": 1
+    },
+    {
+      "description": "My second stream",
+      "title": "Second Stream",
+      "userId": "101793342777040016944",
+      "id": 2
+    },
+    {
+      "description": "My third stream",
+      "title": "Third Stream",
+      "userId": "101793342777040016944",
+      "id": 3
+    }
+  ]
+}
